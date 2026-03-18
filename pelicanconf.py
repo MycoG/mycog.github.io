@@ -17,16 +17,17 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+    # ("Pelican", "https://getpelican.com/"),
+    # ("Python.org", "https://www.python.org/"),
+    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+    ("Github", "https://github.com/MycoG"),
+    ("LinkedIn", "https://www.linkedin.com/in/mycotorres/"),
+    ("Email", "mailto:myco.torres@gmail.com")
 )
 
 # Social widget
 SOCIAL = (
-    ("Github", "https://github.com/MycoG"),
-    ("LinkedIn", "https://www.linkedin.com/in/mycotorres/"),
-    ("Email", "mailto:myco.torres@gmail.com")
+    
 )
 
 DEFAULT_PAGINATION = 10

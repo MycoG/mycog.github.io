@@ -1,2 +1,2 @@
 title: Projects
-- *[biofunc](https://mycog.github.io/biofunc/)* ([github repo](https://github.com/MycoG/biofunc/tree/main)) : a python package of functions that are used to make my life easier when doing bioinformatics stuff. My first python package and kind of written for fun. 
+- *[biofunc](https://mycog.github.io/biofunc/)* ([github repo](https://github.com/MycoG/biofunc/tree/main)) : a python package of functions that are used to make my life easier when doing bioinformatics stuff. My first python package and kind of written for learning purposes. 
